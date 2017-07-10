@@ -21,6 +21,6 @@ yum install -y \
 	php71u-imap \
 	php71u-mcrypt \
 	php71u-xml \
-	php71u-pdo
-
+	php71u-pdo \
+    php71u-pecl-mongodb
 
